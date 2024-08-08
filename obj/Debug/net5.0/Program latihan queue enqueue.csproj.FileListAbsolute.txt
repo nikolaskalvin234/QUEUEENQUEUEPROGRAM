@@ -1,0 +1,5 @@
+C:\Users\kalvi\Documents\Program latihan queue enqueue\obj\Debug\net5.0\Program latihan queue enqueue.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Program latihan queue enqueue\obj\Debug\net5.0\Program latihan queue enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Program latihan queue enqueue\obj\Debug\net5.0\Program latihan queue enqueue.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Program latihan queue enqueue\obj\Debug\net5.0\Program latihan queue enqueue.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Program latihan queue enqueue\obj\Debug\net5.0\Program latihan queue enqueue.csproj.CoreCompileInputs.cache
